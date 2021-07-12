@@ -32,4 +32,4 @@ async def randomnumber(ctx):
     print("The random number was generated")
     await ctx.send("Your generated number is: {}!".format(rndnu))
 
-bot.run("ODYzOTg2MDk1MTc5MTY5Nzky.YOu3wQ.y7gDXHRI3ODobIsUi0HB9wnHsX4")
+bot.run("ODYzOTg2MDk1MTc5MTY5Nzky.YOu3wQ.Zp3qreyWXQYAfPbw-ni0oTDM2fg")
