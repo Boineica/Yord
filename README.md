@@ -1,2 +1,2 @@
 # Yord
-A Open Source discord bot. Some of the code was from freecodecamp.com. Others, not.
+A Open Source discord bot. other original files or folders are not included.
