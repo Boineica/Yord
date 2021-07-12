@@ -1,5 +1,4 @@
 import discord
-import discord
 import random
 import asyncio
 from discord.ext import commands
@@ -33,3 +32,16 @@ async def randomnumber(ctx):
     await ctx.send("Your generated number is: {}!".format(rndnu))
 
 bot.run("ODYzOTg2MDk1MTc5MTY5Nzky.YOu3wQ.Zp3qreyWXQYAfPbw-ni0oTDM2fg")
+
+
+
+
+
+
+
+
+
+
+
+
+# If you think this token is the original yord token. You're screwed! Screwed! HAHAHAHAHAHAHAHAHAHAHAHAHA! Log-in into this bot and you're screwed! HAHAHAHAHA!
